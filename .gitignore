@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Specific files
+./data/NYC_collision.csv
+
 # Distribution / packaging
 .Python
 build/
